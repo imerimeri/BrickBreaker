@@ -6,10 +6,11 @@ Bu proje, klasik "Breakout" oyunundan esinlenilerek HTML5, CSS ve JavaScript kul
 
 
 Oyun ekranı:
-<img width="1432" alt="playing game" src="https://github.com/user-attachments/assets/e7a3fca7-d711-4c5e-9d3d-93277110b3a8" />
+<img width="1432" alt="playing game" src="https://github.com/user-attachments/assets/81de1c89-97f8-4e3b-a4aa-58ef313fcc1f" />
+
 
 Oyun bitti ekranı:
-<img width="1432" alt="game over" src="https://github.com/user-attachments/assets/e8112423-8133-453b-9450-394298fd2171" />
+<img width="1432" alt="game over" src="https://github.com/user-attachments/assets/ae097b6f-50ed-4b47-a09d-bc5c81424810" />
 
 🕹️ Nasıl Oynanır?
 Sol ve sağ yön tuşları ile platformu hareket ettirin.
