@@ -32,6 +32,7 @@ Geliştirme fikirlerinizi, hataları veya yeni özellik isteklerini issue olarak
 Bu oyun bir HTML/JS alıştırması olarak geliştirilmiştir. İzin verildiği sürece serbestçe kullanılabilir, değiştirilebilir ve dağıtılabilir.
 
 Youtube video linki: https://youtu.be/g2aA0wFZah4
+
 Oyunu oynamak için tıklayın: https://imerimeri.github.io/BrickBreaker/
 
 
